@@ -1,0 +1,54 @@
+{
+    "2019-11": {
+        "NISSAN GT-R GT3": 5,
+        "PORSCHE 911 GT3": 2,
+        "AUDI R8 LMS ULTRA": 4,
+        "MERCEDES AMG GT3": 1,
+        "SCG-003": 1,
+        "MCLAREN 650S GT3": 2,
+        "LAMBO HURACAN GT3": 1,
+        "FERRARI 488 GT3": 1,
+        "BMW Z4 GT3": 1
+    },
+    "hits": {
+        "NISSAN GT-R GT3": [
+            "joelk - gt-r",
+            "jani1980 - gt-r",
+            "nuno rodrigues - gt-r",
+            "istvan antal - gt-r",
+            "paulo braga - gt-r"
+        ],
+        "PORSCHE 911 GT3": [
+            "r!ver_cz - 911",
+            "omenf1 - 911"
+        ],
+        "AUDI R8 LMS ULTRA": [
+            "raresch - r8 #29",
+            "hf2000 - r8 #119",
+            "james pendry - r8",
+            "free slot r8"
+        ],
+        "MERCEDES AMG GT3": [
+            "altaraz - amg"
+        ],
+        "SCG-003": [
+            "pattikins - scg"
+        ],
+        "MCLAREN 650S GT3": [
+            "marek2209 - 650s",
+            "free slot 650s"
+        ],
+        "LAMBO HURACAN GT3": [
+            "celtic pharaoh - lambo #63"
+        ],
+        "FERRARI 488 GT3": [
+            "free slot 488"
+        ],
+        "BMW Z4 GT3": [
+            "free slot z4"
+        ]
+    },
+    "nomonths": [],
+    "noyears": [],
+    "wrong_class": []
+}

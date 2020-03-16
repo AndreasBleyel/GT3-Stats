@@ -1,0 +1,595 @@
+{
+    "March2020": {
+        "FERRARI 488 GT3": 4,
+        "MCLAREN 650S GT3": 10,
+        "BMW Z4 GT3": 2,
+        "AUDI R8 LMS ULTRA": 7,
+        "MERCEDES AMG GT3": 2,
+        "NISSAN GT-R GT3": 5,
+        "PORSCHE 911 GT3": 4,
+        "SCG-003": 2,
+        "LAMBO HURACAN GT3": 1
+    },
+    "January2020": {
+        "BMW Z4 GT3": 4,
+        "AUDI R8 LMS ULTRA": 6,
+        "MCLAREN 650S GT3": 10,
+        "FERRARI 488 GT3": 1,
+        "PORSCHE 911 GT3": 1,
+        "SCG-003": 3,
+        "LAMBO HURACAN GT3": 1,
+        "NISSAN GT-R GT3": 3
+    },
+    "December2019": {
+        "AUDI R8 LMS ULTRA": 9,
+        "MCLAREN 650S GT3": 6,
+        "NISSAN GT-R GT3": 9,
+        "PORSCHE 911 GT3": 6,
+        "MERCEDES AMG GT3": 7,
+        "BMW Z4 GT3": 2,
+        "FERRARI 488 GT3": 2,
+        "LAMBO HURACAN GT3": 2,
+        "SCG-003": 1
+    },
+    "September2019": {
+        "LAMBO HURACAN GT3": 6,
+        "BMW Z4 GT3": 8,
+        "AUDI R8 LMS ULTRA": 7,
+        "FERRARI 488 GT3": 6,
+        "SCG-003": 2,
+        "MCLAREN 650S GT3": 12,
+        "PORSCHE 911 GT3": 3,
+        "NISSAN GT-R GT3": 2,
+        "MERCEDES AMG GT3": 2
+    },
+    "August2019": {
+        "AUDI R8 LMS ULTRA": 12,
+        "MCLAREN 650S GT3": 14,
+        "PORSCHE 911 GT3": 8,
+        "FERRARI 488 GT3": 6,
+        "NISSAN GT-R GT3": 6,
+        "LAMBO HURACAN GT3": 3,
+        "MERCEDES AMG GT3": 5,
+        "SCG-003": 2,
+        "BMW Z4 GT3": 3
+    },
+    "July2019": {
+        "MERCEDES AMG GT3": 6,
+        "AUDI R8 LMS ULTRA": 10,
+        "BMW Z4 GT3": 5,
+        "LAMBO HURACAN GT3": 5,
+        "SCG-003": 4,
+        "NISSAN GT-R GT3": 10,
+        "PORSCHE 911 GT3": 7,
+        "FERRARI 488 GT3": 7,
+        "MCLAREN 650S GT3": 8
+    },
+    "May2019": {
+        "NISSAN GT-R GT3": 3,
+        "BMW Z4 GT3": 5,
+        "LAMBO HURACAN GT3": 2,
+        "FERRARI 488 GT3": 5,
+        "MERCEDES AMG GT3": 4,
+        "SCG-003": 3,
+        "PORSCHE 911 GT3": 3,
+        "AUDI R8 LMS ULTRA": 4
+    },
+    "April2019": {
+        "PORSCHE 911 GT3": 3,
+        "SCG-003": 3,
+        "NISSAN GT-R GT3": 1,
+        "LAMBO HURACAN GT3": 1,
+        "AUDI R8 LMS ULTRA": 2,
+        "FERRARI 488 GT3": 1,
+        "MERCEDES AMG GT3": 1
+    },
+    "March2019": {
+        "MERCEDES AMG GT3": 9,
+        "AUDI R8 LMS ULTRA": 11,
+        "FERRARI 488 GT3": 7,
+        "NISSAN GT-R GT3": 17,
+        "PORSCHE 911 GT3": 7,
+        "SCG-003": 6,
+        "BMW Z4 GT3": 3,
+        "LAMBO HURACAN GT3": 1
+    },
+    "March2018": {
+        "NISSAN GT-R GT3": 4,
+        "PORSCHE 911 GT3": 1,
+        "FERRARI 488 GT3": 2,
+        "AUDI R8 LMS ULTRA": 2,
+        "SCG-003": 1
+    },
+    "February2019": {
+        "PORSCHE 911 GT3": 25,
+        "AUDI R8 LMS ULTRA": 6,
+        "NISSAN GT-R GT3": 15,
+        "BMW Z4 GT3": 9,
+        "SCG-003": 5,
+        "FERRARI 488 GT3": 10,
+        "MERCEDES SLS AMG GT3": 1,
+        "MERCEDES AMG GT3": 9,
+        "LAMBO HURACAN GT3": 5
+    },
+    "January2019": {
+        "AUDI R8 LMS ULTRA": 7,
+        "LAMBO HURACAN GT3": 4,
+        "PORSCHE 911 GT3": 16,
+        "NISSAN GT-R GT3": 9,
+        "FERRARI 488 GT3": 11,
+        "SCG-003": 5,
+        "MERCEDES AMG GT3": 6,
+        "BMW Z4 GT3": 6
+    },
+    "December2018": {
+        "SCG-003": 6,
+        "FERRARI 488 GT3": 22,
+        "NISSAN GT-R GT3": 22,
+        "PORSCHE 911 GT3": 13,
+        "MERCEDES AMG GT3": 11,
+        "LAMBO HURACAN GT3": 10,
+        "AUDI R8 LMS ULTRA": 11,
+        "BMW Z4 GT3": 11
+    },
+    "November2018": {
+        "MERCEDES AMG GT3": 9,
+        "FERRARI 488 GT3": 14,
+        "AUDI R8 LMS ULTRA": 15,
+        "PORSCHE 911 GT3": 13,
+        "LAMBO HURACAN GT3": 7,
+        "BMW Z4 GT3": 5,
+        "NISSAN GT-R GT3": 6,
+        "SCG-003": 4
+    },
+    "Octobernoyear": {
+        "PORSCHE 911 GT3": 26,
+        "LAMBO HURACAN GT3": 11,
+        "FERRARI 488 GT3": 17,
+        "BMW Z4 GT3": 17,
+        "NISSAN GT-R GT3": 7,
+        "AUDI R8 LMS ULTRA": 26,
+        "MERCEDES AMG GT3": 4,
+        "MERCEDES SLS AMG GT3": 2,
+        "MCLAREN 650S GT3": 7,
+        "SCG-003": 8,
+        "MCLAREN MP4-12C GT3": 3
+    },
+    "Septembernoyear": {
+        "BMW Z4 GT3": 20,
+        "PORSCHE 911 GT3": 39,
+        "LAMBO HURACAN GT3": 21,
+        "MERCEDES AMG GT3": 17,
+        "AUDI R8 LMS ULTRA": 30,
+        "NISSAN GT-R GT3": 16,
+        "FERRARI 488 GT3": 38,
+        "SCG-003": 4,
+        "MCLAREN 650S GT3": 18,
+        "MERCEDES SLS AMG GT3": 1,
+        "MCLAREN MP4-12C GT3": 1
+    },
+    "Augustnoyear": {
+        "AUDI R8 LMS ULTRA": 10,
+        "MERCEDES AMG GT3": 9,
+        "BMW Z4 GT3": 10,
+        "NISSAN GT-R GT3": 7,
+        "LAMBO HURACAN GT3": 9,
+        "PORSCHE 911 GT3": 13,
+        "FERRARI 488 GT3": 11,
+        "SCG-003": 5,
+        "MCLAREN 650S GT3": 5,
+        "MCLAREN MP4-12C GT3": 1
+    },
+    "March2014": {
+        "SCG-003": 2,
+        "PORSCHE 911 GT3": 2
+    },
+    "Julynoyear": {
+        "FERRARI 488 GT3": 33,
+        "MERCEDES SLS AMG GT3": 6,
+        "AUDI R8 LMS ULTRA": 18,
+        "MERCEDES AMG GT3": 9,
+        "BMW Z4 GT3": 10,
+        "MCLAREN 650S GT3": 22,
+        "PORSCHE 911 GT3": 23,
+        "NISSAN GT-R GT3": 3,
+        "LAMBO HURACAN GT3": 4,
+        "MCLAREN MP4-12C GT3": 3
+    },
+    "Junenoyear": {
+        "FERRARI 488 GT3": 17,
+        "PORSCHE 911 GT3": 21,
+        "MERCEDES AMG GT3": 4,
+        "AUDI R8 LMS ULTRA": 6,
+        "MCLAREN 650S GT3": 11,
+        "BMW Z4 GT3": 3,
+        "NISSAN GT-R GT3": 3
+    },
+    "Maynoyear": {
+        "PORSCHE 911 GT3": 23,
+        "AUDI R8 LMS ULTRA": 16,
+        "BMW Z4 GT3": 24,
+        "FERRARI 488 GT3": 21,
+        "MCLAREN 650S GT3": 24,
+        "MERCEDES AMG GT3": 5,
+        "NISSAN GT-R GT3": 2,
+        "LAMBO HURACAN GT3": 2,
+        "SCG-003": 1,
+        "MCLAREN MP4-12C GT3": 1
+    },
+    "Aprilnoyear": {
+        "MCLAREN 650S GT3": 21,
+        "AUDI R8 LMS ULTRA": 23,
+        "FERRARI 488 GT3": 27,
+        "MERCEDES AMG GT3": 12,
+        "BMW Z4 GT3": 8,
+        "PORSCHE 911 GT3": 21,
+        "LAMBO HURACAN GT3": 2,
+        "NISSAN GT-R GT3": 2,
+        "SCG-003": 1
+    },
+    "Marchnoyear": {
+        "FERRARI 488 GT3": 32,
+        "MERCEDES AMG GT3": 14,
+        "MCLAREN 650S GT3": 15,
+        "BMW Z4 GT3": 17,
+        "PORSCHE 911 GT3": 21,
+        "AUDI R8 LMS ULTRA": 15,
+        "NISSAN GT-R GT3": 1,
+        "LAMBO HURACAN GT3": 2,
+        "SCG-003": 2
+    },
+    "Februarynoyear": {
+        "PORSCHE 911 GT3": 24,
+        "AUDI R8 LMS ULTRA": 13,
+        "SCG-003": 2,
+        "MCLAREN 650S GT3": 22,
+        "MERCEDES AMG GT3": 12,
+        "MERCEDES SLS AMG GT3": 1,
+        "BMW Z4 GT3": 14,
+        "FERRARI 488 GT3": 9,
+        "NISSAN GT-R GT3": 1,
+        "LAMBO HURACAN GT3": 4
+    },
+    "nomonthnoyear": {
+        "FERRARI 488 GT3": 2,
+        "PORSCHE 911 GT3": 1,
+        "BMW Z4 GT3": 7,
+        "AUDI R8 LMS ULTRA": 2,
+        "LAMBO HURACAN GT3": 1,
+        "NISSAN GT-R GT3": 1,
+        "MCLAREN MP4-12C GT3": 3,
+        "MERCEDES SLS AMG GT3": 2
+    },
+    "Januarynoyear": {
+        "PORSCHE 911 GT3": 24,
+        "AUDI R8 LMS ULTRA": 23,
+        "BMW Z4 GT3": 27,
+        "FERRARI 488 GT3": 24,
+        "MCLAREN 650S GT3": 7,
+        "MERCEDES AMG GT3": 4,
+        "LAMBO HURACAN GT3": 8,
+        "NISSAN GT-R GT3": 3
+    },
+    "January2017": {
+        "BMW Z4 GT3": 21,
+        "MERCEDES SLS AMG GT3": 8,
+        "LAMBO HURACAN GT3": 6,
+        "PORSCHE 911 GT3": 35,
+        "FERRARI 488 GT3": 12,
+        "MERCEDES AMG GT3": 11,
+        "SCG-003": 1,
+        "AUDI R8 LMS ULTRA": 11,
+        "MCLAREN 650S GT3": 5,
+        "NISSAN GT-R GT3": 2
+    },
+    "Decembernoyear": {
+        "AUDI R8 LMS ULTRA": 18,
+        "PORSCHE 911 GT3": 12,
+        "BMW Z4 GT3": 15,
+        "NISSAN GT-R GT3": 3,
+        "FERRARI 488 GT3": 11,
+        "LAMBO HURACAN GT3": 2,
+        "MCLAREN 650S GT3": 5,
+        "MERCEDES AMG GT3": 1
+    },
+    "Novembernoyear": {
+        "BMW Z4 GT3": 15,
+        "AUDI R8 LMS ULTRA": 14,
+        "FERRARI 488 GT3": 13,
+        "MCLAREN 650S GT3": 11,
+        "PORSCHE 911 GT3": 22,
+        "LAMBO HURACAN GT3": 1,
+        "MERCEDES AMG GT3": 3
+    },
+    "September2017": {
+        "FERRARI 488 GT3": 7,
+        "MCLAREN 650S GT3": 6,
+        "BMW Z4 GT3": 4,
+        "PORSCHE 911 GT3": 5,
+        "AUDI R8 LMS ULTRA": 11,
+        "MERCEDES AMG GT3": 3
+    },
+    "August2017": {
+        "FERRARI 488 GT3": 20,
+        "MCLAREN 650S GT3": 15,
+        "AUDI R8 LMS ULTRA": 19,
+        "MERCEDES AMG GT3": 11,
+        "BMW Z4 GT3": 15,
+        "PORSCHE 911 GT3": 13,
+        "LAMBO HURACAN GT3": 8,
+        "NISSAN GT-R GT3": 7
+    },
+    "July2017": {
+        "LAMBO HURACAN GT3": 24,
+        "AUDI R8 LMS ULTRA": 33,
+        "FERRARI 488 GT3": 18,
+        "MCLAREN 650S GT3": 20,
+        "MERCEDES AMG GT3": 14,
+        "BMW Z4 GT3": 15,
+        "PORSCHE 911 GT3": 23,
+        "NISSAN GT-R GT3": 4
+    },
+    "June2017": {
+        "FERRARI 488 GT3": 22,
+        "PORSCHE 911 GT3": 14,
+        "NISSAN GT-R GT3": 1,
+        "AUDI R8 LMS ULTRA": 27,
+        "MERCEDES AMG GT3": 15,
+        "MCLAREN 650S GT3": 11,
+        "BMW Z4 GT3": 10,
+        "LAMBO HURACAN GT3": 16,
+        "SCG-003": 2
+    },
+    "May2017": {
+        "AUDI R8 LMS ULTRA": 26,
+        "BMW Z4 GT3": 26,
+        "FERRARI 488 GT3": 14,
+        "MCLAREN 650S GT3": 16,
+        "PORSCHE 911 GT3": 26,
+        "LAMBO HURACAN GT3": 11,
+        "SCG-003": 3,
+        "MERCEDES AMG GT3": 12,
+        "NISSAN GT-R GT3": 1
+    },
+    "April2017": {
+        "LAMBO HURACAN GT3": 15,
+        "FERRARI 488 GT3": 31,
+        "BMW Z4 GT3": 21,
+        "AUDI R8 LMS ULTRA": 22,
+        "PORSCHE 911 GT3": 33,
+        "MCLAREN 650S GT3": 26,
+        "MERCEDES AMG GT3": 21,
+        "NISSAN GT-R GT3": 4
+    },
+    "March2017": {
+        "FERRARI 488 GT3": 7,
+        "LAMBO HURACAN GT3": 2,
+        "AUDI R8 LMS ULTRA": 6,
+        "BMW Z4 GT3": 9,
+        "MCLAREN 650S GT3": 6,
+        "PORSCHE 911 GT3": 11,
+        "NISSAN GT-R GT3": 2,
+        "MERCEDES AMG GT3": 3
+    },
+    "February2017": {
+        "LAMBO HURACAN GT3": 9,
+        "MERCEDES AMG GT3": 13,
+        "FERRARI 488 GT3": 10,
+        "PORSCHE 911 GT3": 22,
+        "MCLAREN 650S GT3": 10,
+        "BMW Z4 GT3": 7,
+        "AUDI R8 LMS ULTRA": 15,
+        "NISSAN GT-R GT3": 3,
+        "SCG-003": 1,
+        "MERCEDES SLS AMG GT3": 2
+    },
+    "December2016": {
+        "BMW Z4 GT3": 8,
+        "MCLAREN 650S GT3": 5,
+        "FERRARI 488 GT3": 8,
+        "MERCEDES AMG GT3": 1,
+        "AUDI R8 LMS ULTRA": 2,
+        "NISSAN GT-R GT3": 2
+    },
+    "November2016": {
+        "SCG-003": 2,
+        "MCLAREN 650S GT3": 4,
+        "NISSAN GT-R GT3": 7,
+        "AUDI R8 LMS ULTRA": 4,
+        "BMW Z4 GT3": 7,
+        "MERCEDES AMG GT3": 1,
+        "FERRARI 488 GT3": 8,
+        "LAMBO HURACAN GT3": 3
+    },
+    "September2016": {
+        "NISSAN GT-R GT3": 15,
+        "LAMBO HURACAN GT3": 10,
+        "FERRARI 488 GT3": 25,
+        "AUDI R8 LMS ULTRA": 2,
+        "MCLAREN 650S GT3": 10,
+        "MERCEDES AMG GT3": 9,
+        "BMW Z4 GT3": 4
+    },
+    "October2016": {
+        "NISSAN GT-R GT3": 3,
+        "LAMBO HURACAN GT3": 6,
+        "FERRARI 488 GT3": 9,
+        "MCLAREN 650S GT3": 7,
+        "MERCEDES AMG GT3": 3,
+        "BMW Z4 GT3": 5
+    },
+    "August2016": {
+        "FERRARI 488 GT3": 6,
+        "AUDI R8 LMS ULTRA": 4,
+        "LAMBO HURACAN GT3": 2,
+        "MCLAREN 650S GT3": 2,
+        "SCG-003": 4,
+        "NISSAN GT-R GT3": 2,
+        "BMW Z4 GT3": 2,
+        "MERCEDES AMG GT3": 2,
+        "MERCEDES SLS AMG GT3": 1
+    },
+    "July2016": {
+        "BMW Z4 GT3": 4,
+        "MCLAREN MP4-12C GT3": 1,
+        "FERRARI 488 GT3": 7,
+        "MCLAREN 650S GT3": 2,
+        "LAMBO HURACAN GT3": 2,
+        "SCG-003": 1,
+        "AUDI R8 LMS ULTRA": 1
+    },
+    "June2016": {
+        "MCLAREN 650S GT3": 9,
+        "LAMBO HURACAN GT3": 4,
+        "BMW Z4 GT3": 14,
+        "SCG-003": 4,
+        "AUDI R8 LMS ULTRA": 4,
+        "MERCEDES AMG GT3": 4,
+        "MERCEDES SLS AMG GT3": 1
+    },
+    "May2016": {
+        "MERCEDES AMG GT3": 5,
+        "LAMBO HURACAN GT3": 7,
+        "MCLAREN 650S GT3": 8,
+        "BMW Z4 GT3": 9,
+        "AUDI R8 LMS ULTRA": 7,
+        "NISSAN GT-R GT3": 3,
+        "SCG-003": 1
+    },
+    "April2016": {
+        "BMW Z4 GT3": 17,
+        "MCLAREN 650S GT3": 11,
+        "LAMBO HURACAN GT3": 9,
+        "AUDI R8 LMS ULTRA": 11,
+        "SCG-003": 2,
+        "MERCEDES SLS AMG GT3": 1,
+        "MERCEDES AMG GT3": 2
+    },
+    "March2016": {
+        "BMW Z4 GT3": 9,
+        "LAMBO HURACAN GT3": 19,
+        "MERCEDES AMG GT3": 6,
+        "AUDI R8 LMS ULTRA": 12,
+        "MCLAREN 650S GT3": 6,
+        "FERRARI 488 GT3": 6,
+        "NISSAN GT-R GT3": 3,
+        "MERCEDES SLS AMG GT3": 2,
+        "MCLAREN MP4-12C GT3": 2
+    },
+    "February2016": {
+        "MERCEDES AMG GT3": 4,
+        "AUDI R8 LMS ULTRA": 18,
+        "MCLAREN MP4-12C GT3": 5,
+        "SCG-003": 3,
+        "LAMBO HURACAN GT3": 19,
+        "MCLAREN 650S GT3": 11,
+        "BMW Z4 GT3": 12,
+        "NISSAN GT-R GT3": 15,
+        "MERCEDES SLS AMG GT3": 4,
+        "FERRARI 488 GT3": 6
+    },
+    "January2016": {
+        "AUDI R8 LMS ULTRA": 26,
+        "BMW Z4 GT3": 13,
+        "MCLAREN MP4-12C GT3": 1,
+        "MERCEDES AMG GT3": 11,
+        "LAMBO HURACAN GT3": 17,
+        "MCLAREN 650S GT3": 10,
+        "FERRARI 488 GT3": 1,
+        "NISSAN GT-R GT3": 19,
+        "SCG-003": 4
+    },
+    "December2015": {
+        "MERCEDES AMG GT3": 10,
+        "MCLAREN 650S GT3": 17,
+        "AUDI R8 LMS ULTRA": 4,
+        "NISSAN GT-R GT3": 7,
+        "LAMBO HURACAN GT3": 5,
+        "MERCEDES SLS AMG GT3": 1,
+        "BMW Z4 GT3": 5,
+        "SCG-003": 1,
+        "MCLAREN MP4-12C GT3": 3
+    },
+    "November2015": {
+        "BMW Z4 GT3": 12,
+        "AUDI R8 LMS ULTRA": 30,
+        "LAMBO HURACAN GT3": 17,
+        "MCLAREN MP4-12C GT3": 9,
+        "NISSAN GT-R GT3": 4,
+        "SCG-003": 12,
+        "MERCEDES SLS AMG GT3": 6
+    },
+    "October2015": {
+        "AUDI R8 LMS ULTRA": 39,
+        "NISSAN GT-R GT3": 13,
+        "MCLAREN MP4-12C GT3": 12,
+        "SCG-003": 32,
+        "LAMBO HURACAN GT3": 50,
+        "BMW Z4 GT3": 8,
+        "MERCEDES SLS AMG GT3": 6,
+        "MERCEDES AMG GT3": 2
+    },
+    "September2015": {
+        "MCLAREN MP4-12C GT3": 3,
+        "BMW Z4 GT3": 1,
+        "MERCEDES SLS AMG GT3": 2,
+        "NISSAN GT-R GT3": 1
+    },
+    "August2015": {
+        "MCLAREN MP4-12C GT3": 14,
+        "BMW Z4 GT3": 17,
+        "MERCEDES SLS AMG GT3": 9,
+        "AUDI R8 LMS ULTRA": 3
+    },
+    "July2015": {
+        "MERCEDES SLS AMG GT3": 1,
+        "MCLAREN MP4-12C GT3": 3,
+        "BMW Z4 GT3": 3,
+        "AUDI R8 LMS ULTRA": 1
+    },
+    "June2015": {
+        "MCLAREN MP4-12C GT3": 22,
+        "BMW Z4 GT3": 17,
+        "MERCEDES SLS AMG GT3": 11,
+        "AUDI R8 LMS ULTRA": 2,
+        "SCG-003": 3,
+        "NISSAN GT-R GT3": 3,
+        "FERRARI 488 GT3": 2
+    },
+    "May2015": {
+        "MERCEDES SLS AMG GT3": 2,
+        "NISSAN GT-R GT3": 7,
+        "MCLAREN MP4-12C GT3": 9,
+        "BMW Z4 GT3": 5
+    },
+    "April2015": {
+        "BMW Z4 GT3": 6,
+        "NISSAN GT-R GT3": 4,
+        "MCLAREN MP4-12C GT3": 13,
+        "MERCEDES SLS AMG GT3": 4
+    },
+    "March2015": {
+        "MERCEDES SLS AMG GT3": 13,
+        "MCLAREN MP4-12C GT3": 34,
+        "BMW Z4 GT3": 19
+    },
+    "February2015": {
+        "MCLAREN MP4-12C GT3": 7,
+        "MERCEDES SLS AMG GT3": 11,
+        "BMW Z4 GT3": 15
+    },
+    "January2015": {
+        "MCLAREN MP4-12C GT3": 10,
+        "BMW Z4 GT3": 11,
+        "MERCEDES SLS AMG GT3": 3
+    },
+    "December2014": {
+        "BMW Z4 GT3": 6,
+        "MCLAREN MP4-12C GT3": 5,
+        "MERCEDES SLS AMG GT3": 4
+    },
+    "May2014": {
+        "BMW Z4 GT3": 38,
+        "MCLAREN MP4-12C GT3": 7
+    }
+}
